@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">滑板鞋</string>
+    <style name="main2_tab_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/selector_main2_tab_text_bottom</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:drawablePadding">11px</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">12px</item>
+        <item name="android:paddingTop">16px</item>
+        <item name="android:textSize">20px</item>
+    </style>
+    <style name="main2_tab_downorder">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/selector_main2_tab_text_bottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">12px</item>
+        <item name="android:paddingTop">16px</item>
+        <item name="android:textSize">20px</item>
+    </style>
+
+</resources>

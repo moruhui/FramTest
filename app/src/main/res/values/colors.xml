@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black10">#19000000</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="baise">#fff</color>
+    <color name="action_bg2">#2c82df</color>
+    <color name="action_bg3">#092F75</color>
+    <color name="myLoginReg">#104a96</color>
+
+
+    <color name="bg">#f5f5f5</color>
+    <color name="myblue">#2c82df</color>
+    <color name="mygray">#606060</color>
+    <color name="myblack">#282828</color>
+    <color name="my99">#999999</color>
+    <color name="myred">#fe4c52</color>
+    <color name="gray">#E7E7E7</color>
+
+
+</resources>

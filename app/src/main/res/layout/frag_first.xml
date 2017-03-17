@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <mrh.framtest20160801.mybannerview.convenientbanner.ConvenientBanner
+        android:id="@+id/index_banner"
+        android:layout_width="match_parent"
+        android:layout_height="300px"></mrh.framtest20160801.mybannerview.convenientbanner.ConvenientBanner>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="这是第一个Fragment......" />
+
+    <ImageView
+        android:id="@+id/fra1_image"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20px"
+        android:src="@drawable/index1" />
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/frg4_fastpull"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginTop="40px"
+        android:background="@drawable/normal_white_pressed_gray"
+        android:gravity="center"
+        android:text="极光推送" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginTop="40px"
+        android:gravity="center"
+        android:background="@drawable/normal_white_pressed_gray"
+        android:text="这是4个Fragment......" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginTop="40px"
+        android:gravity="center"
+        android:background="@drawable/normal_white_pressed_gray"
+        android:text="这是4个Fragment......" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:layout_marginTop="40px"
+        android:gravity="center"
+        android:background="@drawable/normal_white_pressed_gray"
+        android:text="这是4个Fragment......" />
+
+
+</LinearLayout>
