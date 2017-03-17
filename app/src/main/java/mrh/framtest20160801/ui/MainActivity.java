@@ -86,6 +86,7 @@ public class MainActivity extends BaseAty {
         tv_index.setSelected(true);
         tv_index.setTextColor(Color.parseColor("#2c82df"));
 
+
     }
 
     @Override
