@@ -34,9 +34,6 @@ public class FastPullAty extends BaseAty {
     @Override
     protected void initialized() {
 
-
-
-
     }
 
     @Override
